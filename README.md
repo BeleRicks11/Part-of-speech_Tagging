@@ -6,3 +6,8 @@ tectures. To determine the best models we have tried to vary the diﬀerent hype
 so that, through a comparison on the F1-metric, we have been able to select the two most promising
 models: one based on a bidirectional GRU layer, the other on a two-layers bidirectional LSTM. On
 them we have performed the evaluation on the test set and the error analysis.
+
+## Authors
+* [Riccardo Fava](https://github.com/BeleRicks11)
+* [Luca Bompani](https://github.com/Bomps4)
+* [Davide Mercanti](https://github.com/nonci)
